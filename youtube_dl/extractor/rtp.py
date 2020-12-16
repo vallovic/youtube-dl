@@ -46,7 +46,7 @@ class RTPIE(InfoExtractor):
 								m3u8_id='hls', fatal=file_key)
 						if file_key:
 								formats.append({
-										'url': 'https://streaming-ondemand.rtp.pt' + file_key,
+										'url': 'https://ondemand.rtp.pt' + file_key,
 										'preference': 1,
 								})
 						self._sort_formats(formats)
