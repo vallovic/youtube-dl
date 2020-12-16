@@ -424,7 +424,8 @@
  - **la7.it**
  - **laola1tv**
  - **laola1tv:embed**
- - **lbry.tv**
+ - **lbry**
+ - **lbry:channel**
  - **LCI**
  - **Lcp**
  - **LcpPlay**
@@ -500,8 +501,6 @@
  - **mixcloud**
  - **mixcloud:playlist**
  - **mixcloud:user**
- - **Mixer:live**
- - **Mixer:vod**
  - **MLB**
  - **Mnet**
  - **MNetTV**
@@ -816,10 +815,6 @@
  - **Slideshare**
  - **SlidesLive**
  - **Slutload**
- - **smotri**: Smotri.com
- - **smotri:broadcast**: Smotri.com broadcasts
- - **smotri:community**: Smotri.com community videos
- - **smotri:user**: Smotri.com user videos
  - **Snotr**
  - **Sohu**
  - **SonyLIV**
@@ -900,6 +895,7 @@
  - **TeleQuebecEmission**
  - **TeleQuebecLive**
  - **TeleQuebecSquat**
+ - **TeleQuebecVideo**
  - **TeleTask**
  - **Telewebion**
  - **TennisTV**
